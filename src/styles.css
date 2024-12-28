@@ -1,0 +1,37 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+
+nav {
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+    margin-bottom: 20px;
+}
+
+button {
+    padding: 15px 45px;
+    border-radius: 8px;
+    border: 1px solid white;
+    background-color: rebeccapurple;
+    color: white;
+    font-weight: bold;
+    font-size: .9rem;
+    cursor: pointer;
+}
+
+img {
+    min-width: 400px;
+    height: 350px;
+    margin-bottom: 15px;
+}
+
+.title {
+    margin-bottom: 15px;
+}
